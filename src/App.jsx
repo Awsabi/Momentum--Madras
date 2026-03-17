@@ -3,7 +3,7 @@ import { useState } from "react";
 // ─── TRANSLATIONS ─────────────────────────────────────────────────────────────
 const T = {
   en: {
-    appName: Momentum Studio
+    appName: "Momentum Studio",
     tagline: "Empowering every generation",
     signIn: "Sign In", signingIn: "Signing in…",
     email: "EMAIL", password: "PASSWORD",
