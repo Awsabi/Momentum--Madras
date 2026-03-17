@@ -3,8 +3,8 @@ import { useState } from "react";
 // ─── TRANSLATIONS ─────────────────────────────────────────────────────────────
 const T = {
   en: {
-    appName: "MOMENTUM MADRAS",
-    tagline: "FITNESS MANAGEMENT",
+    appName: Momentum Studio
+    tagline: "Empowering every generation",
     signIn: "Sign In", signingIn: "Signing in…",
     email: "EMAIL", password: "PASSWORD",
     invalidLogin: "Invalid email or password",
@@ -46,8 +46,8 @@ const T = {
     writeMessage: "Write your message…",
   },
   ta: {
-    appName: "மோமென்டம் மெட்ராஸ்",
-    tagline: "உடற்பயிற்சி மேலாண்மை",
+    appName: "மோமென்டம் ஸ்டுடியோ",
+    tagline: "தலைமுறையையும் மேம்படுத்துதல்",
     signIn: "உள்நுழை", signingIn: "உள்நுழைகிறது…",
     email: "மின்னஞ்சல்", password: "கடவுச்சொல்",
     invalidLogin: "தவறான மின்னஞ்சல் அல்லது கடவுச்சொல்",
