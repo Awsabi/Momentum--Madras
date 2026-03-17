@@ -135,12 +135,12 @@ const T = {
 
 // ─── DATA ─────────────────────────────────────────────────────────────────────
 const USERS = [
-  { id: "su1", role: "superadmin", name: "Akkil",         email: "akkil@momentummadras.com",    password: "super123",   avatar: "AK" },
-  { id: "fi1", role: "finance",    name: "Finance Team",  email: "finance@momentummadras.com",  password: "finance123", avatar: "FT" },
-  { id: "tr1", role: "trainer",    name: "Trainer One",   email: "trainer1@momentummadras.com", password: "trainer123", avatar: "T1" },
-  { id: "tr2", role: "trainer",    name: "Trainer Two",   email: "trainer2@momentummadras.com", password: "trainer123", avatar: "T2" },
-  { id: "tr3", role: "trainer",    name: "Trainer Three", email: "trainer3@momentummadras.com", password: "trainer123", avatar: "T3" },
-  { id: "cl1", role: "client",     name: "Demo Client",   email: "client@momentummadras.com",   password: "client123",  avatar: "DC", trainerId: "tr1" },
+  { id: "su1", role: "superadmin", name: "Akkil",         email: "akkil@momentstudio.com",    password: "super123",   avatar: "AK" },
+  { id: "fi1", role: "finance",    name: "Finance Team",  email: "finance@momentstudio.com",  password: "finance123", avatar: "FT" },
+  { id: "tr1", role: "trainer",    name: "Trainer One",   email: "trainer1@momentstudio.com", password: "trainer123", avatar: "T1" },
+  { id: "tr2", role: "trainer",    name: "Trainer Two",   email: "trainer2@momentstudio.com", password: "trainer123", avatar: "T2" },
+  { id: "tr3", role: "trainer",    name: "Trainer Three", email: "trainer3@momentstudio.com", password: "trainer123", avatar: "T3" },
+  { id: "cl1", role: "client",     name: "Demo Client",   email: "client@@momentstudio.com",   password: "client123",  avatar: "DC", trainerId: "tr1" },
 ];
 
 const INIT_CLIENTS = [
