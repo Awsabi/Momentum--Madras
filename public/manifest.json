@@ -1,12 +1,11 @@
 {
+  {
   "name": "Momentum Studio - Empowering every generation",
-  "short_name": "Momentum Studio"
-  "description": "Momentum Studio - Empowering every generation",
-  "start_url": "/",
+  "short_name": "Momentum Studio",
+  "start_url": ".",
   "display": "standalone",
-  "orientation": "portrait",
-  "background_color": "#0a0a08",
-  "theme_color": "#ff6b2b",
+  "background_color": "#000000",
+  "theme_color": "#000000"
   "categories": ["fitness", "health", "business"],
   "icons": [
     {
