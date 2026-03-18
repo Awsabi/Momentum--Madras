@@ -3,9 +3,10 @@
   "name": "Momentum Studio - Empowering every generation",
   "short_name": "Momentum Studio",
   "start_url": ".",
+  {
   "display": "standalone",
-  "background_color": "#000000",
-  "theme_color": "#000000"
+  "theme_color": "#000000",
+  "background_color": "#000000"
   "categories": ["fitness", "health", "business"],
   "icons": [
     {
