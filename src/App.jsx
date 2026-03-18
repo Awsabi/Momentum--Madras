@@ -178,7 +178,11 @@ const fmt = (n) => `₹${Number(n).toLocaleString("en-IN")}`;
 const S = `
   *{box-sizing:border-box;margin:0;padding:0}
   ::-webkit-scrollbar{width:4px}::-webkit-scrollbar-track{background:#0a0a08}::-webkit-scrollbar-thumb{background:#2a2010;border-radius:2px}
-  .card{background:#141208;border:1px solid #2a1e0a;border-radius:14px;padding:20px}
+  .card {
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(10px);
+  border-radius: 16px;
+}
   .btn{border:none;cursor:pointer;font-family:'DM Sans',sans-serif;font-weight:700;border-radius:8px;transition:all 0.18s}
   .btn-orange{background:linear-gradient(135deg,#ff6b2b,#ff9500);color:#fff;padding:10px 20px;font-size:13px;box-shadow:0 4px 14px rgba(255,107,43,0.3)}
   .btn-orange:hover{transform:translateY(-1px);box-shadow:0 6px 20px rgba(255,107,43,0.4)}
